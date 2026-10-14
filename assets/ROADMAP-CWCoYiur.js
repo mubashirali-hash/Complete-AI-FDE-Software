@@ -1,0 +1,96 @@
+const e=`# 🗺️ The Complete Software Engineering Roadmap — Days 31–90\r
+\r
+**Days 1–30 taught you to earn from AI software. Days 31–90 make you undeniable.** Three dense phases that turn a 30-day builder into a complete, hire-ready software engineer — in three months total.\r
+\r
+![The 90-day roadmap](images/roadmap.svg)\r
+\r
+> **Why 3 months?** The field moves fast — a 6-month plan risks going stale before you finish it. This roadmap is compressed on purpose: lower-leverage topics cut, everything else taught at sprint pace. It assumes **3–5 hours a day** for days 31–90 (up from 60–90 minutes in the first 30 days). At one hour a day, this is still a 6-month plan — the roadmap is honest about that.\r
+\r
+---\r
+\r
+## What "feature-ready software engineer" actually means\r
+\r
+Not a certificate. Not a tutorial count. A person who can do all of this:\r
+\r
+- [ ] Build a full product end to end — frontend, API, database, deployed, with real users\r
+- [ ] Explain every line they ship, in plain words\r
+- [ ] Write tests that catch real breakage, and a pipeline that runs them on every push\r
+- [ ] Design a database that won't collapse, with migrations\r
+- [ ] Design a clean API strangers can use from docs alone\r
+- [ ] Deploy with Docker + CI/CD, keep backups, survive the "server died" morning\r
+- [ ] Keep secrets secret; name the likely attacks on their app and the defenses\r
+- [ ] Read a big unfamiliar codebase and become useful in it within days\r
+- [ ] Reason about cost growth and defend a system design out loud\r
+- [ ] Work in a team: branches, PRs, review given and received\r
+- [ ] Scope client work, write a contract, name a price, get a testimonial\r
+- [ ] Present their work as case studies; survive interviews; negotiate an offer\r
+\r
+If you can tick every box, you're not "learning to code" anymore. You're a software engineer.\r
+\r
+---\r
+\r
+## The map\r
+\r
+| Phase | Days | The shift | The proof |\r
+|---|---|---|---|\r
+| [1 — The 30 days](30_Day_Ship_It/) | 1–30 | Zero → ships AI software, gets paid | 3 projects + capstone, live |\r
+| [2 — Build Like an Engineer](31_Phase2_Build_Like_An_Engineer/) | 31–50 | "It works" → "I know exactly why" | The Rebuild: Postgres + clean API + tests |\r
+| [3 — Ship Real Products](32_Phase3_Ship_Real_Products/) | 51–70 | Builder → evidence | Product 4 with real users + pro deploys |\r
+| [4 — Get Paid & Get Hired](33_Phase4_Get_Paid_Get_Hired/) | 71–90 | Proof → paycheck | Paid engagement + interviews in motion |\r
+\r
+---\r
+\r
+## The 90-day arc — one story\r
+\r
+**Days 1–30 — the spark (Weeks 1–4).** You go from zero to someone who ships AI software and gets paid for it. Concepts at 100%, AI as your junior, business lens from day one. The milestone isn't knowledge — it's a live capstone and the ability to walk into a business with a solution. Day 30 ends with a bridge, not a goodbye: the roadmap picks up the next morning.\r
+\r
+**Days 31–50 — the foundation (Weeks 5–7).** You go back under the hood of everything you built. Databases you actually understand (Day 24, leveled up), APIs strangers can use, tests that catch real breakage (Day 12, leveled up), git the way teams use it (Day 8, leveled up). "The Rebuild" turns your weakest project into your strongest proof. The pace shifts to 3–4 hours a day — deeper, not just more.\r
+\r
+**Days 51–70 — the evidence (Weeks 8–10).** One product, done properly: a real frontend (Days 13–14, leveled up), real auth, real payments, real users, deployed with Docker and CI/CD, hardened against attack (Day 23, leveled up). Plus your first open-source PR — proof you can read and improve code you didn't write. This is the project you'll lead interviews with.\r
+\r
+**Days 71–90 — the verdict (Weeks 11–13).** The interview core — patterns, not grinding — and system design you can defend out loud. Discovery becomes a paid engagement with a real contract (Day 26, leveled up); the portfolio becomes case studies (Day 27, leveled up). Then the funnel: mocks, applications, conversations. The phase ends when the market responds — not when you've applied.\r
+\r
+One iron rule runs through all 90 days: *never ship output you can't explain or defend.*\r
+\r
+## How the daily loop evolves\r
+\r
+Days 1–30 ran on **60–90 minutes a day**: one concept, one build, one business lens. That loop still works — but the phases ask for more:\r
+\r
+- **Phase 2:** 3–4 hours a day. Depth needs longer sessions.\r
+- **Phase 3:** 4–5 hours a day. You're building a business-grade product in 20 days.\r
+- **Phase 4:** the job hunt IS the work. Problems, mocks, applications, conversations — scheduled like a job.\r
+\r
+The iron rule never changes: **never ship output you can't explain or defend.** It carried you through 30 days; it carries you through 90.\r
+\r
+## What got cut (and why)\r
+\r
+A 3-month plan can't hold a 6-month plan's content. Cut deliberately:\r
+\r
+- **Deep language internals** → condensed to the 5 ideas you'll actually use, learned by applying.\r
+- **100 interview problems** → 25, organized by pattern. Patterns beat volume.\r
+- **Full DevOps mastery** → Docker + CI/CD + backups. Enough to look professional, not a career change.\r
+- **The 2-week team simulation** → the essentials (tickets, PRs, review) practiced on real work.\r
+- **Ten tutorials** → one. Building beats writing about building.\r
+\r
+Nothing cut was load-bearing. Everything cut can be learned later, on the job, while getting paid.\r
+\r
+---\r
+\r
+## Honest expectations\r
+\r
+- **This is a sprint, not a lifestyle.** 3–5 hours a day for 60 days is the price of 3 months. There's no version where it's 30 minutes a day.\r
+- **The job hunt is part of the curriculum** (Phase 4, week 3), not something after it. Hiring takes weeks by itself — the funnel starts before day 90.\r
+- **Freelancing and employment are parallel paths.** A retainer client in week 2 of Phase 4 is income AND proof.\r
+- **You will feel behind at day 60.** Everyone does. The map is the antidote — follow it, tick the boxes, trust the process.\r
+- **AI stays your junior developer the whole way.** The further you go, the more your value is judgment, not typing.\r
+\r
+---\r
+\r
+## The one link\r
+\r
+[roadmap.sh](https://roadmap.sh) — the community's living map of everything a developer can learn. Use it as a reference when you want to see where a topic sits in the bigger picture. Your phases here are the guided path through it.\r
+\r
+---\r
+\r
+*Day 1: "I've never written code." Day 90: a complete software engineer — with the repos, the clients, and the judgment to prove it.*\r
+`;export{e as default};
