@@ -1,6 +1,6 @@
 {
-  "source": "5eb557f",
-  "appSource": "0cb517f",
+  "source": "df90b44",
+  "appSource": "df90b44",
   "coreMissions": 30,
   "concepts": 61,
   "reasoningPrompts": 150,
@@ -8,5 +8,6 @@
   "optionalGuidedLessons": 30,
   "homepage": "FDE Academy",
   "experience": "concepts-ai-core",
-  "builtUtc": "2026-10-15T17:40:16.1392850Z"
+  "visualSampleMission": 1,
+  "builtUtc": "2026-10-15T18:30:21.8949937Z"
 }
