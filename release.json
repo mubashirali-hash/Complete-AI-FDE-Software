@@ -1,6 +1,6 @@
 {
-  "source": "db7b0a2",
-  "appSource": "db7b0a2",
+  "source": "b20b3ac",
+  "appSource": "b20b3ac",
   "coreMissions": 30,
   "executedLabs": 30,
   "concepts": 61,
@@ -8,12 +8,17 @@
   "optionalWorkshops": 30,
   "optionalGuidedLessons": 30,
   "homepage": "FDE Academy",
-  "experience": "editable-mission-studios",
+  "experience": "illustrated-academy-journey",
+  "academyJourney": true,
+  "homepageLivePage": true,
+  "individualModelVisuals": [
+    13,
+    20
+  ],
   "threeDimensionalInspection": true,
   "diagramFallback": true,
   "experimentNotebooks": true,
-  "visualSampleMission": 1,
   "motionPrototype": "one-page-three-layers",
   "narrationSeconds": 43.297,
-  "builtUtc": "2026-10-15T20:09:03.7808743Z"
+  "builtUtc": "2026-10-15T20:41:12.2834062Z"
 }
