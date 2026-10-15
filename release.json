@@ -1,7 +1,8 @@
 {
+  "builtUtc": "2026-10-15T11:39:59.2946924Z",
+  "experience": "missions-and-discoveries",
+  "dailyProjects": 30,
+  "source": "d74439d",
   "guidedMainLessons": 30,
-  "homepage": "FDE Academy",
-  "source": "2725c3e",
-  "builtUtc": "2026-10-15T03:59:11.0129299Z",
-  "dailyProjects": 30
+  "homepage": "FDE Academy"
 }
