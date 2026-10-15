@@ -1,15 +1,19 @@
 {
-  "source": "854bcf7",
-  "appSource": "854bcf7",
+  "source": "db7b0a2",
+  "appSource": "db7b0a2",
   "coreMissions": 30,
+  "executedLabs": 30,
   "concepts": 61,
   "reasoningPrompts": 150,
   "optionalWorkshops": 30,
   "optionalGuidedLessons": 30,
   "homepage": "FDE Academy",
-  "experience": "concepts-ai-core",
+  "experience": "editable-mission-studios",
+  "threeDimensionalInspection": true,
+  "diagramFallback": true,
+  "experimentNotebooks": true,
   "visualSampleMission": 1,
   "motionPrototype": "one-page-three-layers",
   "narrationSeconds": 43.297,
-  "builtUtc": "2026-10-15T19:22:42.7837050Z"
+  "builtUtc": "2026-10-15T20:09:03.7808743Z"
 }
