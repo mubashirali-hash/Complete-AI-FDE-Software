@@ -1,11 +1,12 @@
 {
-  "source": "29bcb41",
-  "interactiveMainLessons": 30,
-  "experience": "playful-learning-studio",
-  "builtUtc": "2026-10-15T16:24:23.5638586Z",
-  "dailyProjects": 30,
-  "validatedBy": "a56f9eb",
-  "soundOptIn": true,
-  "guidedMainLessons": 30,
-  "homepage": "FDE Academy"
+  "source": "5eb557f",
+  "appSource": "0cb517f",
+  "coreMissions": 30,
+  "concepts": 61,
+  "reasoningPrompts": 150,
+  "optionalWorkshops": 30,
+  "optionalGuidedLessons": 30,
+  "homepage": "FDE Academy",
+  "experience": "concepts-ai-core",
+  "builtUtc": "2026-10-15T17:40:16.1392850Z"
 }
