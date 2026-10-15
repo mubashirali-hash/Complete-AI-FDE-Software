@@ -1,6 +1,6 @@
 {
-  "source": "de6bbf9",
-  "appSource": "de6bbf9",
+  "source": "4adae2f",
+  "appSource": "4adae2f",
   "coreMissions": 30,
   "executedLabs": 30,
   "concepts": 61,
@@ -8,7 +8,7 @@
   "optionalWorkshops": 30,
   "optionalGuidedLessons": 30,
   "homepage": "FDE Academy",
-  "experience": "concept-specific-visual-evidence",
+  "experience": "guided-concept-learning",
   "academyJourney": true,
   "homepageLivePage": true,
   "individualModelVisuals": [
@@ -46,11 +46,15 @@
   "experimentNotebooks": true,
   "motionPrototype": "one-page-three-layers",
   "narrationSeconds": 43.297,
-  "builtUtc": "2026-10-15T21:40:03.2976123Z",
+  "builtUtc": "2026-10-15T22:13:59.8356036Z",
   "nativePageMissions": [
     1,
     3
   ],
   "specificPrimaryVisuals": 30,
-  "savedDiagramActions": true
+  "savedDiagramActions": true,
+  "contextScenes": 30,
+  "guidedComparisons": 60,
+  "pacedWorkedExamples": 30,
+  "reversibleInputs": true
 }
