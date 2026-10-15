@@ -1,10 +1,11 @@
 {
-  "phoneChallengeFirst": true,
-  "builtUtc": "2026-10-15T12:26:09.9682639Z",
-  "experience": "change-and-see-lessons",
-  "dailyProjects": 30,
-  "homepage": "FDE Academy",
-  "guidedMainLessons": 30,
+  "source": "29bcb41",
   "interactiveMainLessons": 30,
-  "source": "393f640"
+  "experience": "playful-learning-studio",
+  "builtUtc": "2026-10-15T16:24:23.5638586Z",
+  "dailyProjects": 30,
+  "validatedBy": "a56f9eb",
+  "soundOptIn": true,
+  "guidedMainLessons": 30,
+  "homepage": "FDE Academy"
 }
