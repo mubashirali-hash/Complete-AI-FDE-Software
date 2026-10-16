@@ -1,6 +1,6 @@
 {
-  "source": "26b18f2",
-  "appSource": "26b18f2",
+  "source": "b34792d",
+  "appSource": "b34792d",
   "coreMissions": 30,
   "executedLabs": 30,
   "concepts": 61,
@@ -8,7 +8,7 @@
   "optionalWorkshops": 30,
   "optionalGuidedLessons": 30,
   "homepage": "FDE Academy",
-  "experience": "connected-page-explanations",
+  "experience": "logic-and-illustrated-visit",
   "academyJourney": true,
   "homepageLivePage": true,
   "individualModelVisuals": [
@@ -46,7 +46,7 @@
   "experimentNotebooks": true,
   "motionPrototype": "one-page-three-layers",
   "narrationSeconds": 43.297,
-  "builtUtc": "2026-10-16T00:00:52.2904617Z",
+  "builtUtc": "2026-10-16T00:42:57.5128791Z",
   "nativePageMissions": [
     1,
     3
@@ -66,5 +66,9 @@
   "firstChangeReveal": true,
   "connectedPageMission": 1,
   "interactivePageConcepts": 2,
-  "acknowledgedPageReadiness": true
+  "acknowledgedPageReadiness": true,
+  "interactiveLogicMission": 4,
+  "interactiveLogicConcepts": 2,
+  "illustratedVisitMission": 26,
+  "finiteVisitPlayback": true
 }
